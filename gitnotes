@@ -1,4 +1,5 @@
 cloning: git clone https://github.com/eniya-r/learngit.git
+to add remote: git origin add remote https://github.com/eniya-r/basics.git
 create file
 git config --global user.email "eng21cs0127eniya@gmail.com"
 git config --global user.name eniya-r
