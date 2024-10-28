@@ -1,0 +1,12 @@
+cloning: git clone https://github.com/eniya-r/learngit.git
+create file
+git config --global user.email "eng21cs0127eniya@gmail.com"
+git config --global user.name eniya-r
+git init
+adding file to branch: git add file3.txt
+ git commit -m "Add file3.txt"
+ git push -u origin master
+switching branch: git checkout sub
+git checkout
+changing file content: git diff file3.txt
+then again git add, commit, push.
